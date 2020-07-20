@@ -1,0 +1,60 @@
+hellow  world reem
+
+
+
+
+Hire with us!
+Login
+Courses
+Home
+Algorithms expand_moreData Structures expand_moreLanguages expand_more
+Interview expand_more
+Students expand_more
+GATE expand_more
+CS Subjects expand_more
+Quizzes expand_more
+GBlog
+Puzzles
+What’s New?
+How To Become A Web Developer in 2020 - A Complete Guide
+7 Famous Apps Built on NodeJS: Reasons and Benefits
+What is PERN Stack?
+File uploading in Node.js
+Node.js | fs.readFileSync() Method
+Node.js | util.types.isProxy() Method
+How to read and write JSON file using Node.js ?
+Node.js | fs.readFile() Method
+Difference between node.js require and ES6 import and export
+Difference between __dirname and ./ in Node.js
+Node.js | Export Module
+How to detect HTTP or HTTPS then force redirect to HTTPS in JavaScript ?
+How to Integrate Stripe Payment Gateway in Node.js ?
+Node.js | path.resolve() Method
+Node.js | Yargs Module
+What are the various timing features of Node.js ?
+Data Scraping for Android Apps using google-play-scraper in Node.js
+How to Validate Data using express-validator Module in Node.js ?
+Node.js | process.argv Property
+Node.js | fs.readdir() Method
+Node.js | Request Module
+How to Setup View Engine in Node.js ?
+Session Management using express-session Module in Node.js
+Sending bulk SMS in Node.js using Twilio
+Node.js | fs.rename() Method
+Node.js | fs.lstat() Method
+Node.js | fs.stat() Method
+Password Hashing with MD5 module in Node.js
+How to Setup Handlebars View Engine in Node.js ?
+What is the Punycode in Node.js ?
+Node.js | fs.existsSync() Method
+The fs.existsSync() method is used to synchronously check if a file already exists in the given path or not. It returns a boolean value which indicates the presence of a file.
+
+Syntax:
+
+fs.existsSync( path )
+Parameters: This method accepts a single parameter as mentioned above and described below:
+
+path: It holds the path of the file that has to be checked. It can be a String, Buffer or URL.
+Return Value: It returns a boolean value i.e true if the file exists otherwise returns false.
+
+
